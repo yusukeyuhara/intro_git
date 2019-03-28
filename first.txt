@@ -6,3 +6,4 @@ Git‚Ì—ûK‚ğ‚µ‚Ä‚¢‚«‚Ü‚·
 
 Egit add
 Egit commit
+Egit rm
